@@ -4,6 +4,7 @@
 
 using namespace std;
 
+/*Determina el maximo de fila y columna que puede tener el tablero*/
 const int MAX = 20;
 
 // Función para validar las dimensiones del tablero
